@@ -1,4 +1,4 @@
-organization_uid,automation_uid,user_uid,threshold,period
-f4ac4bcb-e271-5a92-8e43-1d676a8821fa,573e7f6d-6c6b-4458-b1d4-acfce5ec3d1a,ac5ca199-06f5-514e-b850-a29b22d741e3,1000,7
-f4ac4bcb-e271-5a92-8e43-1d676a8821fa,03eb77d2-9a24-4840-9e83-ac1aa1bf7cd1,ac5ca199-06f5-514e-b850-a29b22d741e3,500,14
-f4ac4bcb-e271-5a92-8e43-1d676a8821fa,e82ea2d7-a101-4172-bfe5-07fd67008980,ac5ca199-06f5-514e-b850-a29b22d741e3,2000,30
+organization_uid,automation_name,user_uid,threshold,period
+f4ac4bcb-e271-5a92-8e43-1d676a8821fa,Test luan,ac5ca199-06f5-514e-b850-a29b22d741e3,1000,7
+f4ac4bcb-e271-5a92-8e43-1d676a8821fa,Test luan,ac5ca199-06f5-514e-b850-a29b22d741e3,500,14
+f4ac4bcb-e271-5a92-8e43-1d676a8821fa,TEst Luan ex outcome,ac5ca199-06f5-514e-b850-a29b22d741e3,2000,30
